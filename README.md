@@ -13,3 +13,9 @@ After a thorough examination I found that the .fields() definitions that I set u
 By correcting the definition of the field names, fixing my typos in the import paths and reordering the middleware chain I created a completely functional end-to-end file upload pipeline for my application.
 
 This difficult experience helped me to solidify my debugging discipline and taught me to validate every component of a system systematically instead of depending just on assumptions.
+
+---
+
+### 🔗 Project Links  
+- **GitHub Repository:** [Social Media App Backend & Frontend Code](https://github.com/jai1309/Social_media_app)  
+- **Live Deployment:** [SphereNet — Live Social Media Platform](https://sphere-net.vercel.app/)
